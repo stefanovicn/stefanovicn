@@ -15,7 +15,8 @@ Pored interesovanja za razvoj web aplikacija i savremene web tehnologije, znača
 ## Technologies and tools
 
 - HTML  
-- CSS  
+- CSS
+- Java
 - JavaScript  
 - PHP  
 - SQL
