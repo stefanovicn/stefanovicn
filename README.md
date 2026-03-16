@@ -18,7 +18,8 @@ Pored interesovanja za razvoj web aplikacija i savremene web tehnologije, znača
 - CSS  
 - JavaScript  
 - PHP  
-- SQL  
+- SQL
+- Python
 - WordPress  
 - Git  
 - GitHub  
@@ -26,4 +27,5 @@ Pored interesovanja za razvoj web aplikacija i savremene web tehnologije, znača
 ## Projects
 
 - **BeogradskaHeraldika** – statički web sajt o heraldici beogradskih opština  
-- **MojBudzet** – web aplikacija za upravljanje ličnim budžetom razvijena korišćenjem PHP, HTML, CSS, JavaScript i SQL tehnologija (MVC struktura)  
+- **MojBudzet** – web aplikacija za upravljanje ličnim budžetom razvijena korišćenjem PHP, HTML, CSS, JavaScript i SQL tehnologija (MVC struktura)
+- **MultiGraph** - domaci zadatak iz Diskretnih matematickih struktura uradjen u programskom jeziku Python uz korišćenje NetworkX bibilioteke i NumPy algebre
