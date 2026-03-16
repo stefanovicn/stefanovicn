@@ -2,6 +2,8 @@
 
 Student sam Fakulteta organizacionih nauka u Beogradu na smeru Informacioni sistemi i tehnologije, modul Tehnologije elektronskog poslovanja. Trenutno sam na drugoj godini studija i interesujem se za razvoj web aplikacija i rad sa modernim web tehnologijama.
 
+Pored interesovanja za razvoj web aplikacija i savremene web tehnologije, značajno mesto u mom životu ima i umetnost. U slobodno vreme rado sviram gitaru, što za mene predstavlja način kreativnog izražavanja i balans između tehničkog i umetničkog sveta.
+
 ## About me
 
 - 📍 Beograd, Srbija  
