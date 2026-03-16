@@ -1,6 +1,6 @@
 # Nikola Stefanović
 
-Student Fakulteta organizacionih nauka u Beogradu na smeru Informacione tehnologije – modul Tehnologije elektronskog poslovanja. Trenutno sam druga godina studija i interesujem se za razvoj web aplikacija i rad sa modernim web tehnologijama.
+Student sam Fakulteta organizacionih nauka u Beogradu na smeru Informacione tehnologije na modulu Tehnologije elektronskog poslovanja. Trenutno sam druga godina studija i interesujem se za razvoj web aplikacija i rad sa modernim web tehnologijama.
 
 ## About me
 
