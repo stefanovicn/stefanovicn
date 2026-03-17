@@ -6,7 +6,7 @@ Pored interesovanja za razvoj web aplikacija i savremene web tehnologije, znača
 
 ## About me
 
-- 📍 Beograd, Srbija  
+- 📍 Belgrade, Serbia  
 - 🎓 Fakultet organizacionih nauka (FON)  
 - 💻 Smer: Informacione sistemi i tehnologije – Tehnologije elektronskog poslovanja  
 - 📚 Godina studija: 2. godina  
