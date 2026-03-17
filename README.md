@@ -1,16 +1,16 @@
 # Nikola Stefanović
 
-Student sam Fakulteta organizacionih nauka u Beogradu na smeru Informacioni sistemi i tehnologije, modul Tehnologije elektronskog poslovanja. Trenutno sam na drugoj godini studija i interesujem se za razvoj web aplikacija i rad sa modernim web tehnologijama.
+I am a student at the Faculty of Organizational Sciences in Belgrade, enrolled in the Information Systems and Technologies program, within the Electronic Business Technologies module. I am currently in my second year of studies, with a strong interest in web application development and modern web technologies.
 
-Pored interesovanja za razvoj web aplikacija i savremene web tehnologije, značajno mesto u mom životu ima i umetnost. U slobodno vreme rado sviram gitaru, što za mene predstavlja način kreativnog izražavanja i balans između tehničkog i umetničkog sveta.
+Alongside my interest in web development and contemporary technologies, art also plays an important role in my life. In my free time, I enjoy playing the guitar, which for me represents a form of creative expression and a way to maintain balance between the technical and artistic worlds.
 
 ## About me
 
-- 📍 Belgrade, Serbia  
-- 🎓 Fakultet organizacionih nauka (FON)  
-- 💻 Smer: Informacione sistemi i tehnologije – Tehnologije elektronskog poslovanja  
-- 📚 Godina studija: 2. godina  
-- 🎂 Rođen: 27.07.2005.
+-📍 Belgrade, Serbia  
+-🎓 Faculty of Organizational Sciences (FON)  
+-💻 Major: Information Systems and Technologies – Electronic Business Technologies  
+-📚 Year of study: 2nd year  
+-🎂 Date of birth: July 27, 2005
 
 ## Technologies and tools
 
@@ -27,6 +27,6 @@ Pored interesovanja za razvoj web aplikacija i savremene web tehnologije, znača
 
 ## Projects
 
-- **BeogradskaHeraldika** – statički web sajt o heraldici beogradskih opština  
-- **MojBudzet** – web aplikacija za upravljanje ličnim budžetom razvijena korišćenjem PHP, HTML, CSS, JavaScript i SQL tehnologija (MVC struktura)
-- **MultiGraph** - domaci zadatak iz Diskretnih matematickih struktura uradjen u programskom jeziku Python uz korišćenje NetworkX bibilioteke i NumPy algebre
+- **BeogradskaHeraldika** – a static website about the heraldry of Belgrade municipalities  
+- **MojBudzet** – a web application for personal budget management developed using PHP, HTML, CSS, JavaScript, and SQL (MVC architecture)  
+- **MultiGraph** – a coursework project from Discrete Mathematical Structures implemented in Python using the NetworkX library and NumPy for linear algebra
