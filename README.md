@@ -28,5 +28,5 @@ Alongside my interest in web development and contemporary technologies, art also
 ## Projects
 
 - **BeogradskaHeraldika** – a static website about the heraldry of Belgrade municipalities  
-- **MojBudzet** – a web application for personal budget management developed using PHP, HTML, CSS, JavaScript, and SQL (MVC architecture)  
+- **MojBudzet** – a web application for personal budget management (MVC architecture)  
 - **MultiGraph** – a coursework project from Discrete Mathematical Structures implemented in Python using the NetworkX library and NumPy for linear algebra
