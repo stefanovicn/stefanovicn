@@ -16,8 +16,7 @@ Alongside my interest in web development and contemporary technologies, art also
 
 - HTML  
 - CSS
-- Java
-- JavaScript  
+- Java  
 - PHP  
 - SQL
 - Python
