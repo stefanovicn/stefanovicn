@@ -6,11 +6,11 @@ Alongside my interest in web development and contemporary technologies, art also
 
 ## About me
 
-📍 Belgrade, Serbia  
-🎓 Faculty of Organizational Sciences (FON)  
-💻 Major: Information Systems and Technologies – Electronic Business Technologies  
-📚 Year of study: 2nd year  
-🎂 Date of birth: July 27, 2005
+Belgrade, Serbia  
+Faculty of Organizational Sciences (FON)  
+Major: Information Systems and Technologies – Electronic Business Technologies  
+Year of study: 2nd year  
+
 
 ## Technologies and tools
 
