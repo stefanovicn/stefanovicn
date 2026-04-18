@@ -20,9 +20,11 @@ Year of study: 2nd year
 - PHP  
 - SQL
 - Python
+- C
+- TypeScript
+- JavaScript
 - WordPress  
-- Git  
-- GitHub  
+- Git 
 
 ## Projects
 
