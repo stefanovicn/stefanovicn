@@ -31,3 +31,4 @@ Year of study: 2nd year
 - **BeogradskaHeraldika** – a static website about the heraldry of Belgrade municipalities  
 - **MojBudzet** – a web application for personal budget management (MVC architecture)  
 - **MultiGraph** – a coursework project from Discrete Mathematical Structures implemented in Python using the NetworkX library and NumPy for linear algebra
+- **QuizMaster** – a dynamic web application for online quizzes and administrative management (React & TypeScript)
