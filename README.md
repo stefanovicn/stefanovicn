@@ -1,7 +1,6 @@
 # Nikola Stefanović
 
-I am a student at the Faculty of Organizational Sciences in Belgrade, enrolled in the Information Systems and Technologies program, within the Electronic Business Technologies module. I am currently in my third year of studies, with a strong interest in web application development and modern web technologies. Outside of coding, you'll usually find me playing the guitar or playing pool in local pub.
-
+I am a student at the Faculty of Organizational Sciences in Belgrade, enrolled in the Information Systems and Technologies program, within the Electronic Business Technologies module. I am currently in my third year of studies, with a strong interest in web application development and modern web technologies. Outside of coding, you'll usually find me playing the guitar or heading to a local pub for a game of pool :D.
 
 ## About me
 
