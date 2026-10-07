@@ -28,8 +28,8 @@ Year of study: 3rd year
 ## Projects
 
 - **AnonAgent** - a local privacy layer between sensitive data and cloud LLMs
-- **BeogradskaHeraldika** – a static website about the heraldry of Belgrade municipalities  
 - **MojBudzet** – a web application for personal budget management (MVC architecture)
 - **QuizMaster** – a dynamic web application for online quizzes and administrative management (React & TypeScript)
+- **BeogradskaHeraldika** – a static website about the heraldry of Belgrade municipalities  
 - **MultiGraph** – a coursework project from Discrete Mathematical Structures implemented in Python using the NetworkX library and NumPy for linear algebra
 
